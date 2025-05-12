@@ -1,0 +1,44 @@
+[
+  {
+    "name": "t",
+    "email": "t@gmail.com",
+    "password": "t",
+    "role": "user"
+  },
+  {
+    "name": "Ashima Kamboj",
+    "email": "ashima0061.be23@chitkara.edu.in",
+    "password": "ashima",
+    "role": "user"
+  },
+  {
+    "name": "Ashima Kamboj",
+    "email": "ashima@gmail.com",
+    "password": "ashima",
+    "role": "admin"
+  },
+  {
+    "name": "New",
+    "email": "new@gmail.com",
+    "password": "new",
+    "role": "user"
+  },
+  {
+    "name": "Editor",
+    "email": "editor@gmail.com",
+    "password": "editor",
+    "role": "editor"
+  },
+  {
+    "name": "Divyangna",
+    "email": "divyangna@gmail.com",
+    "password": "divyangna",
+    "role": "user"
+  },
+  {
+    "name": "Diksha",
+    "email": "diksha@gmail.com",
+    "password": "diksha",
+    "role": "user"
+  }
+]
